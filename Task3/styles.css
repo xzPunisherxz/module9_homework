@@ -1,0 +1,24 @@
+#idOne {
+    width: 500px;
+    height: 500px;
+}
+.input {
+    padding: 7px 12px;
+    border: 1px solid #ccc;
+    background-color: transparent;
+    outline: none;
+}
+.btn {
+    outline:none;
+    margin: 5px 10px;
+    padding: 7px 12px;
+    border-radius: 1px;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: white;
+    background: rgb(140, 240, 146);
+    border:none
+
+}
+  

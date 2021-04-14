@@ -1,0 +1,27 @@
+.input-div {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.user-input {
+    margin-bottom: 20px;
+}
+
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+}
+
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}
+
